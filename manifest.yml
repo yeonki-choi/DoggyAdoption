@@ -1,5 +1,5 @@
 applications:
-- name: DoggyAdoption-yeonki
+- name: DoggyAdoption-yeonki2
   memory: 96M
   url:
   - ${name}.app.helionit.io
