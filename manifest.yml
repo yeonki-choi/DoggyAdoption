@@ -1,4 +1,6 @@
 applications:
-- name: DoggyAdoption
+- name: DoggyAdoption-yeonki
   description : Simple demo app that has fun dog pictures.
   memory: 96M
+  url:
+  - ${name}.app.helionit.io 
